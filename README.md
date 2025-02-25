@@ -173,21 +173,21 @@ Example: Testing a calculator function that adds two numbers to ensure it return
 2. Integration Testing
 Purpose: Integration testing involves combining multiple units of code and testing them as a group to ensure they work together seamlessly.
 
-Importance: It identifies issues that arise from interactions between different components, ensuring that the software functions as expected when all parts are integrated12.
+Importance: It identifies issues that arise from interactions between different components, ensuring that the software functions as expected when all parts are integrated.
 
 Example: Testing how a login module interacts with a database to authenticate users.
 
 3. System Testing
 Purpose: System testing evaluates the entire software system as a whole, ensuring it meets all specified requirements and functions as expected in a production-like environment.
 
-Importance: It verifies that the software meets technical, functional, and business requirements, providing a comprehensive view of the system's performance and reliability45.
+Importance: It verifies that the software meets technical, functional, and business requirements, providing a comprehensive view of the system's performance and reliability.
 
 Example: Testing a complete e-commerce platform to ensure all features, from browsing to checkout, work correctly.
 
 4. Acceptance Testing
 Purpose: Acceptance testing, often performed by end-users or stakeholders, validates whether the software meets the specified acceptance criteria and is ready for deployment.
 
-Importance: It ensures that the software aligns with user expectations and business objectives, reducing the risk of post-deployment issues and improving customer satisfaction17.
+Importance: It ensures that the software aligns with user expectations and business objectives, reducing the risk of post-deployment issues and improving customer satisfaction.
 
 Example: Conducting user acceptance testing for a banking app to ensure it meets user needs for transactions and account management.
 
